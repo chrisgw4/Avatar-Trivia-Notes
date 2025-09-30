@@ -1,13 +1,14 @@
 
 
+
 # Avatar Trivia Notes
 
 
 ## Quick Notes
 
-1. **Hybrids** Na'vi have 5 fingers
+1. **Hybrids** Na'vi that have 5 fingers
 2. **Avatars** are Na'vi DNA mixed with human DNA, so thus are Hybrids.
-3. The clan from movie 1 is the *Omatikaya Clan* or the Forest Na'vi clan that Jake leads.
+3. The clan from movie 1 is the [*Omatikaya Clan*](#omatikaya-clan-forest-clan) or the Forest Na'vi clan that Jake leads.
 4. ***Uturu*** is a cultural code stating that any refugee should be granted safe harbor. 
 5. ***Eywa*** also known as the *All-Mother* or the *Great Mother* is the consciousness of *Pandora*. It is the guiding force behind the ecosystem and allows all the species to live in balance with the environment.
 6. ***Tsahik*** is acts as a spiritual leader.
@@ -55,9 +56,10 @@
 	
 > * Na'vi Avatars that are implanted with the memories of deceased human soldiers.
 > * *Colonel Miles Quaritch* returns in **Way of the Water** as a **Recombinant**, after dying to *Neytiri* in the first movie.
-* ***Colonel Miles Quaritch***
+
+### ***Colonel Miles Quaritch***
 >![Why so blue? Colonel Miles Quaritch recombinant avatar](https://media.tenor.com/ZtBoDixMujIAAAAe/avatar-2-why-so-blue.png)
-* ***Lyle Wainfleet***
+### ***Lyle Wainfleet***
 >![enter image description here](https://i.ytimg.com/vi/EiWagr9g4sI/maxresdefault.jpg)
 
 
@@ -66,13 +68,43 @@
 ### General Information
 > * Clan leader is typically called ***Olo'eyktan***
 > * This is the clan that Jake Sully joined and became the leader of.
-> * Jake became the **6th** ***Toruk Makto*** by taming the giant red bird.
+> * Jake became the **6th** ***Toruk Makto*** by taming the giant red bird, [**Toruk**](#toruk).
 >	* The *Great Leonopteryx* is the red bird
-> * Jake surrenders leadership of the clan to ***Tarsem***, as he flees for the **Metkayina Clan**
+> * Jake surrenders leadership of the clan to ***Tarsem***, as he flees for the [**Metkayina Clan**](#metkayina-clan-water-clan)
 > * Clan is responsible for protecting the ***Tree of Souls***
 > * ***Mo'at*** is the **Tsahik** or *Spiritual Leader*.
+> * **Omatikaya Clan** used [**ikran**s](#ikran) for aerial travel
+> * **Omatikaya Clan** used [**Direhorse**s](#direhorse) for land travel
+> * **Makto** stands for Rider
+>   * Toruk Makto means Rider of the Last Shadow
 
-> ##### Great Leonopteryx
+### Geological Features
+> ## Hallelujah Mountains
+> * Na'vi name **Ayram alusing** meaning ***"Floating Mountains"***
+
+
+### Animals
+
+> ## **Direhorse**
+> * Na'vi name is pa'li
+> * Used as a land mount by the Forest Na'vi clans
+
+> #### Direhorse
+> ![Image of the Direhorse](https://static0.srcdn.com/wordpress/wp-content/uploads/2021/04/Direhorse-In-Avatar.jpg)
+
+>  ## **ikran**
+>  * Called **Mountain Banshee**
+>  * Are found on various cliff sides on the **Hallelujah Mountains**
+
+> #### Mountain Banshee or ikran
+> ![Image of ikran](https://i.namu.wiki/i/xw8yaH2YBOHkuSgsl6qKn-JIMFLX-3O6AlMqbUwQSMvmI97V6beJZWjLmbGbdClwHTCeD1ctkkfCTLhZieYGig.webp)
+
+> ## **Toruk**
+> * Name means **"Last Shadow"**
+> * Apex Predator of the Sky
+> * Have similar biology to the **ikrans**
+
+> ##### Great Leonopteryx or Toruk
 > ![Great Leonopteryx](https://cdna.artstation.com/p/assets/images/images/073/044/162/large/nikusha-kharabadze-4.jpg?1708783551)
 
 ### People of the Omatikaya Clan
@@ -83,7 +115,6 @@
 >  * **Entu**
 >    * Was the first ***Toruk Makto***
 >   
- 
 
 
 ## Metkayina Clan (Water Clan)
@@ -114,14 +145,27 @@
 >![Blue Person](https://lumiere-a.akamaihd.net/v1/images/a_avatarpandorapedia_metkayina_16x9_1098_14_ba1265b3.jpeg?region=0%2C0%2C1920%2C1080)
 
 ### Culutral and Tradition Information about the Clan
-> * They have a close relationship with Tulkuns (The big whales)
+> * They have a close relationship with [Tulkuns](#tulkun) (The big whales)
 >   * Usually spend their lives with one Tulkun and share information about their lives with each other.
-> * Use ilus to traverse the ocean.
+> * Use [ilus](#ilu) to traverse the ocean.
 
-> ##### ilu
-> ![Image of the ilu](https://cdn.1001hobbies.com/1978383-large_default/metal-earth-5062248-avatar-ilu.jpg)
+### Animals
+
+> ## ilu
+> * Known to humans as jiaolong or sirens
+>  * Serves as a mount for Metkayina
+
+> ##### Siren or ilu
+> ![Image of the ilu](https://www.dam.be/product/image/large/5062248_scene_1.jpg)
+
+> ## Tulkun
+> * Created the **Tulkun Way** which forbids all forms of killing.
+> * Highly intelligent and spiritual creatures.
+> * Typically bond with a Na'vi and become Spirit Siblings
+> * Na'vi can communicate with them with sign language
+> * Tulkun communicate with the Na'vi with vocal sounds and eye contact
+> * Contain a resource called **Amrita** which stops aging in humans. It sells for $80 million
 
 > ##### Tulkun
->  ##### Tulkuns stick follow their own Tulkun way in which forbids all form of killing. The first Tulkun kill we see is due to Payakan saving Lo'ak from an Akula. Payakan is an outcast as he is blamed for the death of his mother who was killed by the humans.
->  ##### The humans are hunting for a resource called Amrita which reverse aging in humans. It sells for 200 million dollars.
+>  ##### Tulkuns follow their own Tulkun way in which forbids all form of killing. The first Tulkun kill we see is due to Payakan saving Lo'ak from an Akula. Payakan is an outcast as he is blamed for the death of his mother who was killed by the humans.
 > ![Tulkun Image](https://www.hallmarkornaments.com/assets/images/hallmark-2024-Payakan-the-Tulkun-Avatar-2799QXI7761.jpg)
