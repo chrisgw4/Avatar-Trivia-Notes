@@ -9,10 +9,11 @@
 1. **Hybrids** Na'vi that have 5 fingers
 2. **Avatars** are Na'vi DNA mixed with human DNA, so thus are Hybrids.
 3. The clan from movie 1 is the [*Omatikaya Clan*](#omatikaya-clan-forest-clan) or the Forest Na'vi clan that Jake leads.
-4. ***Uturu*** is a cultural code stating that any refugee should be granted safe harbor. 
-5. ***Eywa*** also known as the *All-Mother* or the *Great Mother* is the consciousness of *Pandora*. It is the guiding force behind the ecosystem and allows all the species to live in balance with the environment.
-6. ***Tsahik*** is acts as a spiritual leader.
-7. Clan leader is typically called ***Olo'eyktan***
+4. ***Uturu*** is a cultural code stating that any refugee should be granted safe harbor.
+5. The ***Sully's*** were seeking **Uturu** with the **Metkayina Clan**
+6. ***Eywa*** also known as the *All-Mother* or the *Great Mother* is the consciousness of *Pandora*. It is the guiding force behind the ecosystem and allows all the species to live in balance with the environment.
+7. ***Tsahik*** is acts as a spiritual leader.
+8. Clan leader is typically called ***Olo'eyktan***
 
 ## Sully Family
 #### 1. Jake Sully:
@@ -46,7 +47,7 @@
 
 ## Extra Characters
 #### 1. Spider
-> * Son of *Colonel Miles Quaritch* (The army commander guy)
+> * Son of *Colonel Miles Quaritch* (The commander guy)
 > * Real name is ***Miles "Spider" Socorro***
 > * Couldn't be taken home because babies can't be put in **cryo sleep**.
 > * Is a **human**, not a **Na'vi**
@@ -58,6 +59,9 @@
 > * *Colonel Miles Quaritch* returns in **Way of the Water** as a **Recombinant**, after dying to *Neytiri* in the first movie.
 
 ### ***Colonel Miles Quaritch***
+> * Was part of the Marine Corps before going to Pandora
+> * Became RDA Security Operations Commander
+>
 >![Why so blue? Colonel Miles Quaritch recombinant avatar](https://media.tenor.com/ZtBoDixMujIAAAAe/avatar-2-why-so-blue.png)
 ### ***Lyle Wainfleet***
 >![enter image description here](https://i.ytimg.com/vi/EiWagr9g4sI/maxresdefault.jpg)
@@ -130,7 +134,7 @@
 	* **Aonung** leads **Lo'ak** to **Three Brothers** and leaves him there to die.
 >![enter image description here](https://lumiere-a.akamaihd.net/v1/images/a_avatarpandorapedia_aonung_16x9_1098_12_86bb99ba.jpeg?region=240,0,1440,1080)
 * ***Tsireya*** is the eldest daughter of *Tonowari*
-	* She is in love with Jake Sully's son to Lo'ak or something
+	* She is in love with Jake Sully's son, Lo'ak, or something
 * ***Rotxo*** is the youngest son of *Tonowari*
 	* He is just really mean to the Forest Na'vi.
 
@@ -167,5 +171,5 @@
 > * Contain a resource called **Amrita** which stops aging in humans. It sells for $80 million
 
 > ##### Tulkun
->  ##### Tulkuns follow their own Tulkun way in which forbids all form of killing. The first Tulkun kill we see is due to Payakan saving Lo'ak from an Akula. Payakan is an outcast as he is blamed for the death of his mother who was killed by the humans.
+>  ##### Tulkuns follow their own Tulkun way which forbids all form of killing. The first Tulkun kill we see is due to Payakan saving Lo'ak from an Akula. Payakan is an outcast as he is blamed for the death of his mother who was killed by the humans.
 > ![Tulkun Image](https://www.hallmarkornaments.com/assets/images/hallmark-2024-Payakan-the-Tulkun-Avatar-2799QXI7761.jpg)
