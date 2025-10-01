@@ -10,7 +10,7 @@
 2. **Avatars** are Na'vi DNA mixed with human DNA, so thus are Hybrids.
 3. The clan from movie 1 is the [*Omatikaya Clan*](#omatikaya-clan-forest-clan) or the Forest Na'vi clan that Jake leads.
 4. ***Uturu*** is a cultural code stating that any refugee should be granted safe harbor.
-5. The ***Sully's*** were seeking **Uturu** with the **Metkayina Clan**
+5. The ***Sully's*** were seeking **Uturu** with the [**Metkayina Clan**](#metkayina-clan-water-clan)
 6. ***Eywa*** also known as the *All-Mother* or the *Great Mother* is the consciousness of *Pandora*. It is the guiding force behind the ecosystem and allows all the species to live in balance with the environment.
 7. ***Tsahik*** is acts as a spiritual leader.
 8. Clan leader is typically called ***Olo'eyktan***
